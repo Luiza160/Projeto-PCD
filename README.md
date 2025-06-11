@@ -66,6 +66,14 @@ Subprocess
 
 O módulo subprocess é parte da biblioteca padrão do Python. É usado para executar comandos do sistema operacional a partir do seu script Python. No caso, foi utilizado para chamar o MUSCLE.exe .
 
+matplotlib.pyplot
+
+O módulo pyplot, parte da biblioteca Matplotlib, é utilizado para criar gráficos e visualizações em Python. 
+
+Seaborn
+
+É uma biblioteca de visualização de dados em python que deixa os gráficos mais profissionais e informativos, usando como base o matplotlib. No caso, foi utilizado para gerar, com base na matriz de similaridade, um heatmap (gráfico em forma de tabela colorida para visualizar valores numéricos, onde as cores representam os números).
+
 
 Plopy
 
