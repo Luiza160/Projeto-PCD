@@ -53,6 +53,16 @@ entre duas sequências pode ser feito de forma global ou local. Quando global, c
 
 O alinhamento é considerado simples quando apenas duas sequências são alinhadas, e múltipla quando três ou mais devem ser alinhadas entre si. No caso, a depender das entradas fornecidas pelo usuário, alinhamento simples ou múltiplo será realizado.
 
+SeqIO
+
+É um módulo da biblioteca Biopython para ler e escrever sequências de DNA, RNA ou proteínas a partir de arquivo como FASTA, GenBank ou EMBL, além de converter um formato para outro, lidando com arquivos contendo uma ou mais sequências representadas como objetos SeqRecord.
+
+
+
+AlignIO
+
+É um módulo de Biopython que fornece uma interface de entrada e saída de alinhamento de sequência, lidando com arquivos que contêm um ou mais alinhamentos de sequência representados como objetos Alignment.
+
 
 Plopy
 
@@ -102,6 +112,8 @@ WIKIPEDIA CONTRIBUTORS. Sequence alignment. Disponível em: <https://en.wikipedi
 WIKIPEDIA CONTRIBUTORS. MUSCLE (alignment software).
 
 INTRODUÇÃO, 3. 1. Alinhamento de Seqüências. Disponível em: <https://professor.pucgoias.edu.br/SiteDocente/admin/arquivosUpload/18497/material/Cap.%203%20Alinhamento%20de%20sequ%C3%AAncias.pdf>. Acesso em: 11 jun. 2025.
+
+The module for multiple sequence alignments, AlignIO. Disponível em: <https://biopython.org/wiki/AlignIO>. Acesso em: 11 jun. 2025.
 
 Edgar, R. C. (2004). MUSCLE: a multiple sequence alignment method with reduced time and space complexity. BMC Bioinformatics, 5, 113. 
 
