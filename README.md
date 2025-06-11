@@ -8,7 +8,7 @@ A ideia para o projeto surgiu do desejo de relacionar conceitos estudados em out
 
 O objetivo do programa é automatizar a análise e o estudo genômico dos arbovírus, vírus transmitidos por artrópodes e que, por esse motivo, afetam especialmente regiões tropicais, como a América do Sul.
 
-A análise da estrutura genética dos vírus pode ajudar a entender a história evolutiva de um vírus, detectar suas variantes, estabelecer por onde ele passou e atualizar vacinas, por exemplo
+A análise da estrutura genética dos vírus pode ajudar a entender a história evolutiva de um vírus, detectar suas variantes, estabelecer por onde ele passou e atualizar vacinas, por exemplo.
 
 # Desenvolvedores do Projeto
 
