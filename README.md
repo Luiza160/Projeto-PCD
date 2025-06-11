@@ -45,6 +45,12 @@ Mais especificamente, acessamos o banco de dados GenBank para obter as sequênci
 
 
 Muscle
+Multiple Sequence Comparison by Log-Expectation é um software de computador para alinhamento de múltiplas sequências de proteínas e nucleotídeos, sendo licenciado como domínio público.
+
+O alinhamento de sequências é o processo de comparar duas sequências (no caso, de nucleotídeos) para observar seu nível de identidade. O alinhamento
+entre duas sequências pode ser feito de forma global ou local. Quando global, comparamos uma sequência, ao longo de toda sua extensão, mas local se a comparação é apenas em pequenas regiões. Nesse contexto, MUSCLE é capaz de comparar genomas de ambas as formas, retornando um score de alinhamento, que é a soma dos pontos de similaridades, diferenças e abertura e extensão de falhas.
+
+O alinhamento é considerado simples quando apenas duas sequências são alinhadas, e múltipla quando três ou mais devem ser alinhadas entre si. No caso, a depender das entradas fornecidas pelo usuário, alinhamento simples ou múltiplo será realizado.
 
 
 Plopy
@@ -86,7 +92,13 @@ NATIONAL CENTER FOR BIOTECHNOLOGY INFORMATION. Our Mission - NCBI. Disponível e
 
 Biopython Documentation — Biopython 1.85 documentation. Disponível em: <https://biopython.org/docs/latest/index.html#>. Acesso em: 11 jun. 2025.
 
-
 ‌Cock, P. J. A., Antao, T., Chang, J. T., Chapman, B. A., Cox, C. J., Dalke, A., Friedberg, I., Hamelryck, T., Kauff, F., Wilczynski, B., & de Hoon, M. J. L. (2009). Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics, 25(11), 1422–1423.
 
 ‌OPENAI. ChatGPT (versão GPT-4) [ferramenta de inteligência artificial]. Disponível em: https://chat.openai.com/. Acesso em: 11 jun. 2025.
+
+WIKIPEDIA CONTRIBUTORS. Sequence alignment. Disponível em: <https://en.wikipedia.org/wiki/Sequence_alignment>.
+
+WIKIPEDIA CONTRIBUTORS. MUSCLE (alignment software).
+
+INTRODUÇÃO, 3. 1. Alinhamento de Seqüências. Disponível em: <https://professor.pucgoias.edu.br/SiteDocente/admin/arquivosUpload/18497/material/Cap.%203%20Alinhamento%20de%20sequ%C3%AAncias.pdf>. Acesso em: 11 jun. 2025.
+
