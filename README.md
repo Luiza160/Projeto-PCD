@@ -19,17 +19,24 @@ A análise da estrutura genética dos vírus pode ajudar a entender a história 
 # 🛠️ Ferramentas Utilizadas 🛠️
 
 IA
+
 Utilizamos Inteligência Artificial para compreender as funcionalidades do Biopython e como aplicá-las em nosso projeto.
 
+
 Biopython
+
 É um conjunto de ferramentas gratuitas para computação biológica em Python. É projeto membro da Open Bioinformatics Foundation (OBF), com repositório no GitHub (https://github.com/biopython).
 
+
 NCBI
+
 O NCBI (Centro Nacional de Informação Biotecnológica) é uma divisão da Biblioteca Nacional de Medicina dos Estados Unidos (U.S. National Library of Medicine), que por sua vez faz parte dos Institutos Nacionais de Saúde (NIH - National Institutes of Health).
 
 Ele é responsável por manter diversos recursos biológicos, incluindo o GenBank, um repositório público de sequências de nucleotídeos e suas anotações. Este banco de dados é amplamente utilizado em bioinformática para análise de genomas, sendo uma fonte essencial de dados para ferramentas de busca, comparação e alinhamento de sequências genéticas.
 
+
 Entrez
+
 O Entrez é o sistema de busca e integração de dados do NCBI, que permite o acesso a diversos bancos de dados biológicos, como o GenBank, PubMed, Gene, entre outros.
 
 Neste projeto, utilizamos o Entrez para acessar e baixar os genomas de variantes virais diretamente do NCBI. Isso foi feito por meio do módulo Bio.Entrez, fornecido pelo pacote Biopython, que oferece uma interface programática para as funcionalidades disponibilizadas pelo NCBI.
@@ -38,6 +45,7 @@ Mais especificamente, acessamos o banco de dados GenBank para obter as sequênci
 
 
 Muscle
+
 
 Plopy
 
