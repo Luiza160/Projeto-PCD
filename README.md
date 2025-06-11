@@ -81,6 +81,9 @@ NumPy (Numerical Python) é uma biblioteca do Python usada para fazer cálculos 
 
 Plopy
 
+Versão do Python
+
+Python 3.12.7
 
 
 
