@@ -76,7 +76,7 @@ Seaborn
 
 Numpy
 
-NumPy (Numerical Python) é uma biblioteca do Python usada para fazer cálculos matemáticos e trabalhar com arrays (matrizes/vetores). No caso, utilizamos NumPy para  criar a matriz de similaridade entre genomas antes de exibir no heatmap com seaborn.
+NumPy (Numerical Python) é uma biblioteca do Python usada para fazer cálculos matemáticos e trabalhar com arrays (matrizes/vetores). No caso, utilizamos NumPy para  criar a matriz de similaridade entre genomas antes de exibir no heatmap com seaborn (função calcular_similaridade), além de plotar a matriz triangular (função plotar_matriz_triangular).
 
 
 Plopy
