@@ -45,6 +45,7 @@ Mais especificamente, acessamos o banco de dados GenBank para obter as sequênci
 
 
 Muscle
+
 Multiple Sequence Comparison by Log-Expectation é um software de computador para alinhamento de múltiplas sequências de proteínas e nucleotídeos, sendo licenciado como domínio público.
 
 O alinhamento de sequências é o processo de comparar duas sequências (no caso, de nucleotídeos) para observar seu nível de identidade. O alinhamento
