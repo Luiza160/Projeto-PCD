@@ -74,6 +74,10 @@ Seaborn
 
 É uma biblioteca de visualização de dados em python que deixa os gráficos mais profissionais e informativos, usando como base o matplotlib. No caso, foi utilizado para gerar, com base na matriz de similaridade, um heatmap (gráfico em forma de tabela colorida para visualizar valores numéricos, onde as cores representam os números).
 
+Numpy
+
+NumPy (Numerical Python) é uma biblioteca do Python usada para fazer cálculos matemáticos e trabalhar com arrays (matrizes/vetores). No caso, utilizamos NumPy para  criar a matriz de similaridade entre genomas antes de exibir no heatmap com seaborn.
+
 
 Plopy
 
@@ -125,6 +129,10 @@ WIKIPEDIA CONTRIBUTORS. MUSCLE (alignment software).
 INTRODUÇÃO, 3. 1. Alinhamento de Seqüências. Disponível em: <https://professor.pucgoias.edu.br/SiteDocente/admin/arquivosUpload/18497/material/Cap.%203%20Alinhamento%20de%20sequ%C3%AAncias.pdf>. Acesso em: 11 jun. 2025.
 
 The module for multiple sequence alignments, AlignIO. Disponível em: <https://biopython.org/wiki/AlignIO>. Acesso em: 11 jun. 2025.
+
+Introduction to NumPy. Disponível em: <https://www.w3schools.com/python/numpy/numpy_intro.asp>. Acesso em: 11 jun. 2025.
+
+
 
 Edgar, R. C. (2004). MUSCLE: a multiple sequence alignment method with reduced time and space complexity. BMC Bioinformatics, 5, 113. 
 
