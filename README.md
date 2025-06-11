@@ -58,10 +58,13 @@ SeqIO
 É um módulo da biblioteca Biopython para ler e escrever sequências de DNA, RNA ou proteínas a partir de arquivo como FASTA, GenBank ou EMBL, além de converter um formato para outro, lidando com arquivos contendo uma ou mais sequências representadas como objetos SeqRecord.
 
 
-
 AlignIO
 
 É um módulo de Biopython que fornece uma interface de entrada e saída de alinhamento de sequência, lidando com arquivos que contêm um ou mais alinhamentos de sequência representados como objetos Alignment.
+
+Subprocess
+
+O módulo subprocess é parte da biblioteca padrão do Python. É usado para executar comandos do sistema operacional a partir do seu script Python. No caso, foi utilizado para chamar o MUSCLE.exe .
 
 
 Plopy
