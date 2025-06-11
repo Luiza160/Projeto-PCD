@@ -1,8 +1,12 @@
+![insert some_code here](https://github.com/user-attachments/assets/33404899-7018-44c5-949e-37921559ec2f)
+
 # 🧬 Computando Semelhança Genética Viral 🧬
 
 Projeto realizado para a diciplina de Práticas em Ciência de Dados no primeiro semestre de 2025 do curso de Ciência e Tecnologia, Ilum Escola de Ciência.
 
 A ideia para o projeto surgiu do desejo de relacionar conceitos estudados em outras áreas do conhecimento com as funcionalidades do Python estudadas durante o primeiro semestre. Por esse motivo, optou-se por aplicar as ideias de grafos, matrizes e processamento de strings para comparar as semelhanças e diferenças entre genomas de vírus já catalogados. 
+
+# !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge Satus"](https://img.shields.io/badge/Status%20-%20Em_Desenvolvimento%20-%20orange)
 
 # ⭐ Objetivo ⭐
 
@@ -35,3 +39,5 @@ Agradecimento especial aos professores da matéria de Práticas em Ciência de D
 
 #### Referências:
 https://agencia.fiocruz.br/sequenciamento-genomico-no-rastro-do-virus 
+
+https://biopython.org/docs/latest/index.html#
