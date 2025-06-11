@@ -18,6 +18,34 @@ A análise da estrutura genética dos vírus pode ajudar a entender a história 
 
 # 🛠️ Ferramentas Utilizadas 🛠️
 
+IA
+Utilizamos Inteligência Artificial para compreender as funcionalidades do Biopython e como aplicá-las em nosso projeto.
+
+Biopython
+É um conjunto de ferramentas gratuitas para computação biológica em Python. É projeto membro da Open Bioinformatics Foundation (OBF), com repositório no GitHub (https://github.com/biopython).
+
+NCBI
+O NCBI (Centro Nacional de Informação Biotecnológica) é uma divisão da Biblioteca Nacional de Medicina dos Estados Unidos (U.S. National Library of Medicine), que por sua vez faz parte dos Institutos Nacionais de Saúde (NIH - National Institutes of Health).
+
+Ele é responsável por manter diversos recursos biológicos, incluindo o GenBank, um repositório público de sequências de nucleotídeos e suas anotações. Este banco de dados é amplamente utilizado em bioinformática para análise de genomas, sendo uma fonte essencial de dados para ferramentas de busca, comparação e alinhamento de sequências genéticas.
+
+Entrez
+O Entrez é o sistema de busca e integração de dados do NCBI, que permite o acesso a diversos bancos de dados biológicos, como o GenBank, PubMed, Gene, entre outros.
+
+Neste projeto, utilizamos o Entrez para acessar e baixar os genomas de variantes virais diretamente do NCBI. Isso foi feito por meio do módulo Bio.Entrez, fornecido pelo pacote Biopython, que oferece uma interface programática para as funcionalidades disponibilizadas pelo NCBI.
+
+Mais especificamente, acessamos o banco de dados GenBank para obter as sequências genômicas necessárias para análise.
+
+
+Muscle
+
+Plopy
+
+
+
+
+
+
 # 👥 Desenvolvedores do Projeto 👥
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/106536784?v=4" width=115><br><sub>😄Bruna Guedes Pereira😄</sub>](https://github.com/Bruna-guedes09)
@@ -38,6 +66,19 @@ Agradecimento especial aos professores da matéria de Práticas em Ciência de D
 
 
 #### Referências:
-https://agencia.fiocruz.br/sequenciamento-genomico-no-rastro-do-virus 
+Sequenciamento genômico: no rastro do vírus. Disponível em: <https://agencia.fiocruz.br/sequenciamento-genomico-no-rastro-do-virus>. Acesso em: 11 jun. 2025.
 
-https://biopython.org/docs/latest/index.html#
+Accessing NCBI’s Entrez databases — Biopython 1.85 documentation. Disponível em: <https://biopython.org/docs/latest/Tutorial/chapter_entrez.html#chapter-entrez>. Acesso em: 11 jun. 2025.
+
+NATIONAL CENTER FOR BIOTECHNOLOGY INFORMATION. Our Mission - NCBI. Disponível em: <https://www.ncbi.nlm.nih.gov/home/about/mission/>.
+
+‌DOS, C. GenBank. Disponível em: <https://pt.wikipedia.org/wiki/GenBank>. Acesso em: 11 jun. 2025.
+
+‌BIOPYTHON. Biopython · Biopython. Disponível em: <https://biopython.org/>.
+
+Biopython Documentation — Biopython 1.85 documentation. Disponível em: <https://biopython.org/docs/latest/index.html#>. Acesso em: 11 jun. 2025.
+
+
+‌Cock, P. J. A., Antao, T., Chang, J. T., Chapman, B. A., Cox, C. J., Dalke, A., Friedberg, I., Hamelryck, T., Kauff, F., Wilczynski, B., & de Hoon, M. J. L. (2009). Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics, 25(11), 1422–1423.
+
+‌OPENAI. ChatGPT (versão GPT-4) [ferramenta de inteligência artificial]. Disponível em: https://chat.openai.com/. Acesso em: 11 jun. 2025.
