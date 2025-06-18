@@ -10,7 +10,7 @@ def obtendo_fasta(fasta_dir: Path) -> list[Path]:
 #verificação dupla agora de se é realmente um diretório e não um arquvio
   if not fasta_dir.is_dir():
     raise NotADirectoryError(f"O caminho não é um diretório: {fasta_dir}")
-  return list(fasta_dir.glob('*.fasta'))+list(fasta_dir.glob('*.FASTA')
+  return list(fasta_dir.glob('*.fasta'))+list(fasta_dir.glob('*.FASTA'))
 
   
 def calculo_dist(fasta_file: Path):
@@ -30,13 +30,13 @@ def calculo_dist(fasta_file: Path):
     #Converto tudo pra maiúsculo.
       for base in linha.strip().upper():
         #PARA RNA PELO AMOR
-        if base in 'ACGU':
+        if base in 'ACGUT':
           contador_bases[base]+=1
           total_bases+=1
 
   base_percentuais={
     base:(count/total_bases)*100 
-    for base, count in base_counts.items()
+    for base, count in contador_bases.items()
   }
 
   perc_gc= base_percentuais.get('G', 0) + base_percentuais.get('C',0)
@@ -70,17 +70,12 @@ def calculando_distribuicoes():
       #perc_cg tem a porcentagem de CG e lista_perc tem as porcentagens de cada
       #par de base
       perc_gc, lista_perc=calculo_dist(fasta_file)
-      porcentagensCG[fasta_file.stem]=per_gc
+      porcentagensCG[fasta_file.stem]=perc_gc
       lista_porcentagens[fasta_file.stem]=lista_perc
+
+  except Exception as e:
+    print(f"Erro {str(e)}", file=sys.stderr)
+    sys.exit(1)
       
   return porcentagensCG, lista_porcentagens
 
-if __name__ == "__main__":
-    cg, distrib = calculando_distribuicoes()
-    print("\nResultados:")
-    for virus, porcentagem in cg.items():
-        print(f"\n{virus}:")
-        print(f"  GC%: {porcentagem:.2f}%")
-        print("  Distribuição de bases:")
-        for base, perc in distrib[virus].items():
-            print(f"    {base}: {perc:.2f}%")
