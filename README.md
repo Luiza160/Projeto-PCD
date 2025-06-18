@@ -106,36 +106,3 @@ Agradecimento especial aos professores da matéria de Práticas em Ciência de D
 📍Professor James Moraes de Almeida
 
 📍Professor Leandro Nascimento Lemos
-
-
-#### Referências:
-Sequenciamento genômico: no rastro do vírus. Disponível em: <https://agencia.fiocruz.br/sequenciamento-genomico-no-rastro-do-virus>. Acesso em: 11 jun. 2025.
-
-Accessing NCBI’s Entrez databases — Biopython 1.85 documentation. Disponível em: <https://biopython.org/docs/latest/Tutorial/chapter_entrez.html#chapter-entrez>. Acesso em: 11 jun. 2025.
-
-NATIONAL CENTER FOR BIOTECHNOLOGY INFORMATION. Our Mission - NCBI. Disponível em: <https://www.ncbi.nlm.nih.gov/home/about/mission/>.
-
-‌DOS, C. GenBank. Disponível em: <https://pt.wikipedia.org/wiki/GenBank>. Acesso em: 11 jun. 2025.
-
-‌BIOPYTHON. Biopython · Biopython. Disponível em: <https://biopython.org/>.
-
-Biopython Documentation — Biopython 1.85 documentation. Disponível em: <https://biopython.org/docs/latest/index.html#>. Acesso em: 11 jun. 2025.
-
-‌Cock, P. J. A., Antao, T., Chang, J. T., Chapman, B. A., Cox, C. J., Dalke, A., Friedberg, I., Hamelryck, T., Kauff, F., Wilczynski, B., & de Hoon, M. J. L. (2009). Biopython: freely available Python tools for computational molecular biology and bioinformatics. Bioinformatics, 25(11), 1422–1423.
-
-‌OPENAI. ChatGPT (versão GPT-4) [ferramenta de inteligência artificial]. Disponível em: https://chat.openai.com/. Acesso em: 11 jun. 2025.
-
-WIKIPEDIA CONTRIBUTORS. Sequence alignment. Disponível em: <https://en.wikipedia.org/wiki/Sequence_alignment>.
-
-WIKIPEDIA CONTRIBUTORS. MUSCLE (alignment software).
-
-INTRODUÇÃO, 3. 1. Alinhamento de Seqüências. Disponível em: <https://professor.pucgoias.edu.br/SiteDocente/admin/arquivosUpload/18497/material/Cap.%203%20Alinhamento%20de%20sequ%C3%AAncias.pdf>. Acesso em: 11 jun. 2025.
-
-The module for multiple sequence alignments, AlignIO. Disponível em: <https://biopython.org/wiki/AlignIO>. Acesso em: 11 jun. 2025.
-
-Introduction to NumPy. Disponível em: <https://www.w3schools.com/python/numpy/numpy_intro.asp>. Acesso em: 11 jun. 2025.
-
-
-
-Edgar, R. C. (2004). MUSCLE: a multiple sequence alignment method with reduced time and space complexity. BMC Bioinformatics, 5, 113. 
-
