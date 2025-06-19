@@ -1,0 +1,9 @@
+In the action of creating the folder, the functions uploaded in here were not changed at all by the uploader. The functions were 
+already uploaded into main and were just moved in bulk to this folder and subsequently deleted from the main branch (because
+they were now on the folder). To see the correct authors of each function see the commit history. This change was made purely
+for organization purposes. 
+
+Na ação de criar essa pasta, as funções que receberam upload não foram mudadas pelo criador da pasta. As funções já estavam 
+em main e só foram movidas em bulk para essa pasta, subsequentemente sendo deletadas do branch main (já que agora estão nesta
+pasta). Para ver os autores de cada função, cheque o histórico de commits. Essa mudança foi feita puramente para propósitos
+organizacionais. 
