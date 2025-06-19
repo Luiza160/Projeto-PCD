@@ -6,13 +6,9 @@ Projeto realizado para a diciplina de Práticas em Ciência de Dados no primeiro
 
 A ideia para o projeto surgiu do desejo de relacionar conceitos estudados em outras áreas do conhecimento com as funcionalidades do Python estudadas durante o primeiro semestre. Por esse motivo, optou-se por aplicar as ideias de grafos, matrizes e processamento de strings para comparar as semelhanças e diferenças entre genomas de vírus já catalogados. 
 
+O objetivo do programa é automatizar a análise e o estudo genômico dos arbovírus, vírus transmitidos por artrópodes e que, por esse motivo, afetam especialmente regiões tropicais, como a América do Sul. A análise da estrutura genética desses vírus pode ajudar a entender sua história evolutiva, detectar variantes, estabelecer por onde ele passou e atualizar vacinas, por exemplo.
+
 # !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge Satus"](https://img.shields.io/badge/Status%20-%20Em_Desenvolvimento%20-%20orange)
-
-# ⭐ Objetivo ⭐
-
-O objetivo do programa é automatizar a análise e o estudo genômico dos arbovírus, vírus transmitidos por artrópodes e que, por esse motivo, afetam especialmente regiões tropicais, como a América do Sul.
-
-A análise da estrutura genética dos vírus pode ajudar a entender a história evolutiva de um vírus, detectar suas variantes, estabelecer por onde ele passou e atualizar vacinas, por exemplo.
 
 # 💻 Instalação e Instruções 💻
 
