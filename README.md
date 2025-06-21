@@ -61,7 +61,7 @@ Além do site oficial, encontramos um repositório do GitHub que contém todas a
 ### Instalação do Código
 O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [nome da pasta](link). Caso o usuário já tenha realizado a instalação do Muscle previamente, é possível baixar apenas o [código principal](link). Caso contrário, é recomendado que o usuário baixe a pasta completa.
 
-Ao realizar o download, é possível perceber que o arquivo é um Python Notebook, ou seja, deve ser rodado em programas que possuem um Jupyter Kernel. Durante a realização do projeto, foram utilizados o JupyterLab e o Visual Studio Code, sendo os mais recomendados para a execução, uma vez que os testes já foram realizados. Além disso, é preciso que o usuário tenha instalado todas as bibliotecas citadas anteriormente em seu computador.
+Ao realizar o download, é possível perceber que o arquivo é um Jupyter Notebook, ou seja, deve ser rodado em programas que possuam um Jupyter Kernel. Durante a realização do projeto, foram utilizados o JupyterLab e o Visual Studio Code, sendo os mais recomendados para a execução, uma vez que os testes já foram realizados neles. Além disso, é preciso que o usuário tenha instalado todas as bibliotecas citadas anteriormente em seu computador.
 
 # 👥 Desenvolvedores do Projeto 👥
 
