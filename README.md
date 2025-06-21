@@ -1,10 +1,10 @@
 ![insert some_code here](https://github.com/user-attachments/assets/33404899-7018-44c5-949e-37921559ec2f)
 
-# 🧬 Computando Semelhança Genética Viral 🧬
+🧬 Computando Semelhança Genética Viral 🧬
 
 Projeto realizado para a diciplina de Práticas em Ciência de Dados no primeiro semestre de 2025 do curso de Ciência e Tecnologia, Ilum Escola de Ciência.
 
-A ideia para o projeto surgiu do desejo de relacionar conceitos estudados em outras áreas do conhecimento com as funcionalidades do Python estudadas durante o primeiro semestre. Por esse motivo, optou-se por aplicar as ideias de grafos, matrizes e processamento de strings para comparar as semelhanças e diferenças entre genomas de vírus já catalogados. 
+A ideia para o projeto surgiu do desejo de relacionar conceitos estudados em outras áreas do conhecimento com as funcionalidades do Python estudadas durante o primeiro semestre. Por esse motivo, optou-se por aplicar as ideias de matrizes, processamento de strings e composição de gráficos para comparar as semelhanças e diferenças entre genomas de vírus já catalogados. 
 
 O objetivo do programa é automatizar a análise e o estudo genômico dos arbovírus, vírus transmitidos por artrópodes e que, por esse motivo, afetam especialmente regiões tropicais, como a América do Sul. A análise da estrutura genética desses vírus pode ajudar a entender sua história evolutiva, detectar variantes, estabelecer por onde ele passou e atualizar vacinas, por exemplo.
 
@@ -54,6 +54,14 @@ Para o funcionamento desse programa, é essencial que o usuário tenha instalado
 
 Além do site oficial, encontramos um repositório do GitHub que contém todas as informações sobre o Muscle e todos os arquivos necessários para sua instalação. Os arquivos estão reunidos na seguinte [pasta](https://github.com/rcedgar/muscle/releases/tag/v5.3). Basta encontrar o executável que possui as especificações desejadas e selecioná-lo. A instalação será iniciada imediatamente.
 
+⚠️ IMPORTANTE ⚠️
+
+É importante ressaltar que, para o funcionamento correto de todas as funções, é preciso que o software Muscle e o código a ser executado estejam salvos no mesmo diretório, ou seja, é preciso que o usuário salve ambos os arquivos em uma mesma pasta em seu computador. Para facilitar esse processo, deixamos disponível uma pasta que já contém ambos os arquivos. Abaixo estão as instruções de como realizar este processo.
+
+### Instalação do Código
+O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [nome da pasta](link). Caso o usuário já tenha realizado a instalação do Muscle previamente, é possível baixar apenas o [código principal](link). Caso contrário, é recomendado que o usuário baixe a pasta completa.
+
+Ao realizar o download, é possível perceber que o arquivo é um Python Notebook, ou seja, deve ser rodado em programas que possuem um Jupyter Kernel. Durante a realização do projeto, foram utilizados o JupyterLab e o Visual Studio Code, sendo os mais recomendados para a execução, uma vez que os testes já foram realizados. Além disso, é preciso que o usuário tenha instalado todas as bibliotecas citadas anteriormente em seu computador.
 
 # 👥 Desenvolvedores do Projeto 👥
 
