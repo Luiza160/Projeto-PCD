@@ -1,6 +1,6 @@
 ![insert some_code here](https://github.com/user-attachments/assets/33404899-7018-44c5-949e-37921559ec2f)
 
-🧬 Computando Semelhança Genética Viral 🧬
+# 🧬 Computando Semelhança Genética Viral 🧬
 
 Projeto realizado para a diciplina de Práticas em Ciência de Dados no primeiro semestre de 2025 do curso de Ciência e Tecnologia, Ilum Escola de Ciência.
 
