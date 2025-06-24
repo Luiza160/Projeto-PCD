@@ -63,6 +63,9 @@ O código principal para a execução deste projeto se encontra neste repositór
 
 Ao realizar o download, é possível perceber que o arquivo é um Jupyter Notebook, ou seja, deve ser rodado em programas que possuam um Jupyter Kernel. Durante a realização do projeto, foram utilizados o JupyterLab e o Visual Studio Code, sendo os mais recomendados para a execução, uma vez que os testes já foram realizados neles. Além disso, é preciso que o usuário tenha instalado todas as bibliotecas citadas anteriormente em seu computador.
 
+### Instalação das Bibliotecas
+Outro ponto que exige atenção antes da execução do código tem relação com as bibliotecas que serão utilizadas. Em tópicos anteriores, tais ferramentas já foram citadas, incluindo também, o link para a página de cada uma delas na internet. Para que o código seja executado corretamente, o usuário deve verificar se já possui todas essas bibliotecas instaladas em seu dispositivo. Caso alguma delas não esteja, o usuário deverá criar uma nova célula, digitar **pip install** *(nome da biblioteca)* e executar. Por exemplo, para instalar a biblioteca Seaborn, digita-se *pip install seaborn*
+
 # 👥 Desenvolvedores do Projeto 👥
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/106536784?v=4" width=115><br><sub>😄Bruna Guedes Pereira😄</sub>](https://github.com/Bruna-guedes09)
