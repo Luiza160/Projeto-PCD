@@ -61,7 +61,7 @@ Além do site oficial, encontramos um repositório do GitHub que contém todas a
 É importante ressaltar que, para o funcionamento correto de todas as funções, é preciso que o software Muscle e o código a ser executado estejam salvos no mesmo diretório, ou seja, é preciso que o usuário salve ambos os arquivos em uma mesma pasta em seu computador. Para facilitar esse processo, deixamos disponível uma pasta que já contém ambos os arquivos. Abaixo estão as instruções de como realizar este processo.
 
 ### Instalação do Código
-O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [nome da pasta](link). Caso o usuário já tenha realizado a instalação do Muscle previamente, é possível baixar apenas o [código principal](link). Caso contrário, é recomendado que o usuário baixe a pasta completa.
+O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [Versões](https://github.com/Luiza160/Projeto-PCD/tree/main/Vers%C3%B5es). Caso o usuário já tenha realizado a instalação do Muscle previamente, é possível baixar apenas o [código principal](link). Caso contrário, é recomendado que o usuário baixe a pasta completa.
 
 Ao realizar o download, é possível perceber que o arquivo é um Jupyter Notebook, ou seja, deve ser rodado em programas que possuam um Jupyter Kernel. Durante a realização do projeto, foram utilizados o JupyterLab e o Visual Studio Code, sendo os mais recomendados para a execução, uma vez que os testes já foram realizados neles. Além disso, é preciso que o usuário tenha instalado todas as bibliotecas citadas anteriormente em seu computador.
 
