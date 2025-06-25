@@ -61,7 +61,7 @@ Além do site oficial, encontramos um repositório do GitHub que contém todas a
 É importante ressaltar que, para o funcionamento correto de todas as funções, é preciso que o software Muscle e o código a ser executado estejam salvos no mesmo diretório, ou seja, é preciso que o usuário salve ambos os arquivos em uma mesma pasta em seu computador. Para facilitar esse processo, deixamos disponível uma pasta que já contém ambos os arquivos. Abaixo estão as instruções de como realizar este processo.
 
 ### Instalação do Código
-O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [Versões](https://github.com/Luiza160/Projeto-PCD/tree/main/Vers%C3%B5es). Caso o usuário já tenha realizado a instalação do Muscle previamente, é possível baixar apenas o [código principal](link). Caso contrário, é recomendado que o usuário baixe a pasta completa.
+O código principal para a execução deste projeto se encontra neste repositório do GitHub, na pasta [Versões](https://github.com/Luiza160/Projeto-PCD/tree/main/Vers%C3%B5es). Caso o usuário já tenha realizado a instalação do Muscle previamente, é possível baixar apenas o [código principal](https://github.com/Luiza160/Projeto-PCD/blob/main/Vers%C3%B5es/codigo-final.ipynb). Caso contrário, é recomendado que o usuário baixe a **pasta completa**.
 
 Ao realizar o download, é possível perceber que o arquivo é um Jupyter Notebook, ou seja, deve ser rodado em programas que possuam um Jupyter Kernel. Durante a realização do projeto, foram utilizados o JupyterLab e o Visual Studio Code, sendo os mais recomendados para a execução, uma vez que os testes já foram realizados neles. Além disso, é preciso que o usuário tenha instalado todas as bibliotecas citadas anteriormente em seu computador.
 
@@ -72,11 +72,35 @@ Outro ponto que exige atenção antes da execução do código tem relação com
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/106536784?v=4" width=115><br><sub>😄Bruna Guedes Pereira😄</sub>](https://github.com/Bruna-guedes09)
 
+Aluna do primeiro semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
+
+- Estudei o alinhamento genético e as matrizes triangulares
+- Estudei também o Biopython e o Seaborn, colocando em prática as técnicas de alinhamento e o gráfico de matriz triangular
+- Escrevi as funções "rodar_muscle" e "plotar_matriz_triangular"
+
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/173375194?v=4" width=115><br><sub>😎Jonatas Rafael de Oliveira Melo😎</sub>](https://github.com/jonatas727)
+
+Aluno do primeiro semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
+
+- Escrevi as funções "calcular_similaridades" e "buscar_genoma"
+- Me dediquei a unir o trabalho de todos, criando a função principal
+- Estudei Biophyton e apliquei suas funcionalidades ao codigo
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/195492158?v=4" width=115><br><sub>🍂Luiza Davoli🍂</sub>](https://github.com/Luiza160)
 
+Aluna do primeiro semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
+
+- Me responsabilizei, na maioria do tempo, pela harmonia visual do notebook e do GitHub
+- Estudei bibliotecas que permitem mais interatividade e visualização mais clara, como o Tkinter e o Matplotlib
+- Escrevi as funções relacionadas ao Tkinter e a "plotar_grafico_cg"
+
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/88594280?v=4" width=115><br><sub>🐳Matheus Macedo do Nascimento🐳</sub>](https://github.com/matheusMNa)
+
+Aluno do primeiro semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
+
+- Escrevi a função "baixar_genoma", as 3 funções de "calculando_distribuicoes" e "visualizacao_percentual"
+- Estudei o Biopython, pahthandling e um pouco de displays e widgets para gráficos
+- Corrigi os erros que surgiram ao longo da execução do código
 
 Agradecimento especial aos professores da matéria de Práticas em Ciência de Dados, por todo o aprendizado durante o semestre e a colaboração para a realização desse projeto:
 
