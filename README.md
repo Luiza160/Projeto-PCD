@@ -25,7 +25,7 @@ Utilizamos Inteligência Artificial para compreender as funcionalidades do Biopy
 - [Numpy](https://numpy.org/)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - [Ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
--[IPython.display](https://ipython.readthedocs.io/en/8.26.0/api/generated/IPython.display.html)
+- [IPython.display](https://ipython.readthedocs.io/en/8.26.0/api/generated/IPython.display.html)
 
 ### NCBI
 
